@@ -19,7 +19,7 @@ Creative Coding Syllabus &amp; Class repo
 [Attendance](#Attendance)\
 [Contacting the Professor](#Contacting-the-Professor)\
 [Course Objective](#Course-Objectives)\
-[Course Requirements & Special Notes](#Course-Requirements)
+[Course Requirements & Special Notes](#Course-Requirements)\
 [Course Structure](#Course-Structure)\
 [Educational Accessibility Statement](#Educational-Accessibility-Statement)\
 [Grading](#Grading)\
@@ -99,7 +99,8 @@ Students that have programming experience will be pushed to explore the visual l
 
 [Back To The Top](#Syllabus-Short-Cuts)
 
-## Course Requirements - Special Things to Note:
+## Course Requirements
+### Special Things to Note:
 
 • Email contact about logistics (when, where, how many, etc) ONLY
 
