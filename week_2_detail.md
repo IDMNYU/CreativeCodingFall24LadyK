@@ -31,7 +31,7 @@
 	</td>
 	<!-- day WEd -->
 	<td valign="top" width="48%">
-	<strong> Sketch 1 Due XXX </strong><br>
+	<strong> Sketch 1 Due Sept 20 </strong><br>
 	How to Submit Homework <br>
 	Variables<br>
 	Comments<br>
