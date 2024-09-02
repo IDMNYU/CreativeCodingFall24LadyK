@@ -14,27 +14,27 @@ Creative Coding Syllabus &amp; Class repo
 
 # Syllabus Short Cuts:
 [Academic Integrity](#Academic-Integrity)\
-[Accomodations](#ACADEMIC-ACCOMMODATIONS)\
-[Assessments](#Assessments)\
+[Accomodations](#Educational-Accessibility-Statement)\
+[Assessments](#Assessment)\
 [Attendance](#Attendance)\
 [Contacting the Professor](#Contacting-the-Professor)\
 [Course Objective](#Course-Objectives)\
-[Course Requirements & Special Notes](#Course-Requirements-Special-Things-to-Note)
+[Course Requirements & Special Notes](#Course-Requirements )
 [Course Structure](#Course-Structure)\
 [Educational Accessibility Statement](#Educational-Accessibility-Statement)\
 [Grading](#Grading)\
-[How to Submit Assignments via GitHub](#How-to-Submit-Assignments-via-Github)
+[How to Submit Assignments via GitHub](#How-to-Submit-Assignments-via-Github) <br>
 [Important Aspects of this Course](#Important-Aspects-of-this-Course)\
-[Inclusion](#Includion)\
+[Inclusion](#Inclusion)\
 [Late Work](#Late-Work)\
-[Links to Assignments](#Links-to-Assignments)\
+[Links to Assignments](#Assignment-Links)\
 [Links to Required Resources](#Links-to-Required-Resources)\
-[Numerical Grade Breakdown](#The-numerical-breakdown-for-letter-grades)\
+[Numerical Grade Breakdown](#Numerical-Grade-Breakdown )\
 [Program Goals](#Program-Goals)\
 [Programming Experience](#Programming-Experience)\
-[Required Materials](#Required-Materials-Acquire-these)\
+[Required Materials](#Required-Materials)\
 [Technology in the Classroom](#Technology-in-the-Classroom)\
-[Using Code Found Elsewhere](#Using-Code-Fround-Elsewhere)\
+[Using Code Found Elsewhere](#Using-Code-Found-Elsewhere)\
 [Using Generative AI](#Using-Generative-AI)
 
 
