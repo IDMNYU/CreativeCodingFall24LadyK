@@ -81,8 +81,7 @@
 	Debugging Strategies<br>
 	Intro: Sound, Computer Vision, Video, P5 Play library, P5 Speech library<br>
 	</td>
-<td valign="top"><a href="week_8_detail.md"> Oct 28 </a> </td><td>
-	<strong>**MidTerm Presentations** <br>Midterm Project Feedback <br></strong> </td>
+<td valign="top"><a href="week_8_detail.md"> Oct 28 </a><strong>**MidTerm Presentations** <br>Midterm Project Feedback <br></strong> </td>
 </tr>
 <tr>
 	<td> 9 </td>
