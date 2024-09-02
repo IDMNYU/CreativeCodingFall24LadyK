@@ -19,7 +19,7 @@ Creative Coding Syllabus &amp; Class repo
 [Attendance](#Attendance)\
 [Contacting the Professor](#Contacting-the-Professor)\
 [Course Objective](#Course-Objectives)\
-[Course Requirements & Special Notes](#Course-Requirements )
+[Course Requirements & Special Notes](#Course-Requirements)
 [Course Structure](#Course-Structure)\
 [Educational Accessibility Statement](#Educational-Accessibility-Statement)\
 [Grading](#Grading)\
