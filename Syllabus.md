@@ -6,8 +6,8 @@ Creative Coding Syllabus &amp; Class repo
 * **370 Jay Street, Room 308, Brooklyn Campus
 * **Professor: Katherine Bennett**
 * **Email: Katherine.Bennett@nyu.edu** 
-* [Slack Workspace]() (Note: you must first JOIN the slack workspace to access it. You can find the link to join in week 1's weekly breakout page or the email I sent)
-* [openProcessing Workspace (where homework is submitted)]() You must first join openProcessing. See the email I sent in the beginning of the semseter and/or the invite in week 1's weekly breakout.
+* [Slack Workspace](https://idmcreativeco-s4m7481.slack.com) (Note: you must first JOIN the slack workspace to access it. You can find the link to join in week 1's weekly breakout page or the email I sent)
+* [openProcessing Workspace (where homework is submitted)](https://openprocessing.org/class/93423#/) You must first join openProcessing. See the email I sent in the beginning of the semseter and/or the invite in week 1's weekly breakout.
 * **Office Hours: Monday & Wednesday 4-5pm EST, Message me in Slack to give me a heads up. First Come, First Serve. Otherwise, I can meet briefly before class. Please message me in advance to set up.**
 * **Creative Coding GA is: TBD**
 
@@ -153,7 +153,7 @@ Attendance is mandatory and will be noted for the entire duration of the class p
 
 • Work is still due on due dates, regardless of whether you are in class or not.
 
-• Contact me in advance if you will not be in class. ([Slack]() DIRECT MESSAGE is preferred). Demonstrate time management, communication and respect.
+• Contact me in advance if you will not be in class. ([Slack](https://idmcreativeco-s4m7481.slack.com) DIRECT MESSAGE is preferred). Demonstrate time management, communication and respect.
 
 • Be on time! Lateness will affect your grade. For every 15 minutes you are late, your participation grade drops.
 
@@ -168,7 +168,7 @@ Attendance is mandatory and will be noted for the entire duration of the class p
 
 
 ## Contacting the Professor
-[Slack]() DIRECT MESSAGE is the preferred initial contact. Otherwise you may email me (katherine.bennett@nyu.edu), _most especially if it is time urgent/sensitive_. Direct message is suitable for short questions (to answers that cannot be found in the syllabus), to set up appointments, or to notify me about being late or absent. *If it's something time sensitive, do email me.*
+[Slack](https://idmcreativeco-s4m7481.slack.com) DIRECT MESSAGE is the preferred initial contact. Otherwise you may email me (katherine.bennett@nyu.edu), _most especially if it is time urgent/sensitive_. Direct message is suitable for short questions (to answers that cannot be found in the syllabus), to set up appointments, or to notify me about being late or absent. *If it's something time sensitive, do email me.*
 
 For matters longer than 5 sentences, please direct message me to make an appointment. This is the proper way to address longer questions, issues, to ask me about an assignment, review a grade you received, or to discuss other matters. If you send me a super long message, I am simply going to respond by asking you to meet with me synchronously to resolve the matter. I will not resolve matters asynchronously. Period.
 
@@ -203,11 +203,12 @@ This book is available for purchase in the NYU bookstore. You can check the stat
 
 • A Github account for yourself- https://github.com/ - email me your handle (not a link to your login or personal setting on github, but simply, your github handle or a link to your account of github).
 
-• [Slack]() 
+• [Slack](https://idmcreativeco-s4m7481.slack.com)
+• [Slack Invite](https://join.slack.com/t/nyu-sbq4415/shared_invite/zt-2pt0dov8m-fQR2KJWSEW2ELVbltfh1xw)
 
-• [OpenProcessing Invite]()
+• [OpenProcessing Invite](https://openprocessing.org/join/2B6B0B)
 
-• [OpenProcessing Site]()
+• [OpenProcessing Site](https://openprocessing.org/class/93423#/)
 
 • [Resources](Resources.md)
 
@@ -241,7 +242,7 @@ A typical week will aim for the following schedule:
 
 • **Pair programming** is a popular way to learn and to work on projects. Two people share one computer and write code together. For the second half of class, an exercise will be given which will be worked on in pairs. The exercise will be due at the end of the class period and presented to class. It is not to be completed individually, nor asynchronously with your partner. On occasions the deadline will be at another point. Yet, the exercise is meant to be worked on together - on one laptop, in one program. 
 
-• **Homework projects will be turned in via [OpenProcessing.org]()**. At times, larger assignments homework projects will be turned in via GitHub. GitHub is a web hosting service that supports Git version control. It is more important than your resume, whether you are an artist, engineer or designer. It’s used largerly for software, but can be used for anything. It’s important to become familar with it, develop good habits. See the assigned reading links for more information.
+• **Homework projects will be turned in via [OpenProcessing.org](https://openprocessing.org/class/93423#/)**. At times, larger assignments homework projects will be turned in via GitHub. GitHub is a web hosting service that supports Git version control. It is more important than your resume, whether you are an artist, engineer or designer. It’s used largerly for software, but can be used for anything. It’s important to become familar with it, develop good habits. See the assigned reading links for more information.
 • **Time** Time management is everything. You will need it to have reasonable accomplishments in this class. The material is cumulative. The readings are essential. Writing code is the only way to make progress and to fully synthesize the material. It becomes evident quite quickly. Develop excellent time management. You will need 8 hours outside of class to succeed.
 
 My personal favorite time management tools are [KanBan](https://leankit.com/learn/kanban/what-is-kanban/), [Ink and Volt Planner](https://inkandvolt.com/product/volt-planner/) (also available in undated), the [Pomodoro technique](http://lifehacker.com/productivity-101-a-primer-to-the-pomodoro-technique-1598992730), [Self Control](https://selfcontrolapp.com/)  
