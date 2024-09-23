@@ -33,44 +33,45 @@ Get familiar with your display preferences IN. ADVANCE. I'm. Not. Joking.!! I'm 
 
 #### Show and Tell People
 
-Week 4A - Joshua Davis, Golan Levin (drawing systems + collaborations) ---> 
+Week 5A - Joshua Davis, Golan Levin (drawing systems + collaborations) ---> Quinn
 
-Week 5B -  Casey Reas, Zachary Lieberman ---> 
+Week 5B -  Casey Reas, Zachary Lieberman ---> Lamar
 
-Week 6A - United Visual Artists, American Artist ---> 
+Week 6A - United Visual Artists, American Artist ---> Sierra
 
 Week 6B - Seb Lee-Delisle & Kyle McDonald ---> 
 
-Week 6A - Julian Oliver, Moritz Stefaner, Martin Wattenberg ---> 
+Week 6A - Julian Oliver, Moritz Stefaner, Martin Wattenberg ---> Nils
 
-Week 6B -  Lee Blalock, Soso Limited ---> 
+Week 6B -  Lee Blalock, Soso Limited ---> Kayla
 
-Week 6B - Nina Wenhart, N-e-r-v-o-u-s-S-y-s-t-e-m --->
+Week 6B - Nina Wenhart, N-e-r-v-o-u-s-S-y-s-t-e-m ---> Lydia
 
-Week 7A - Marius Watz & Memo Akten ---> 
+Week 7A - Marius Watz & Memo Akten ---> Louie
 
 Week 8B - Field - http://www.field.io/, JT Nimoy (formerly known as Josh Nimoy)---> 
 
-Week 9A - Jurg Lehni, Red Paper Heart   ---> 
+Week 9A - Jurg Lehni, Red Paper Heart   ---> Sutton
 
-Week 9B - Amit Pitaru, rAndom International  ---> 
+Week 9B - Amit Pitaru, rAndom International  ---> Josef
 
 Week 10A - Eno Henze, Cedric Kiefer (onformative)---> 
 
-Week 10A - Diato Manabe, Leo Villareal ---> 
+Week 10A - Diato Manabe, Leo Villareal ---> Ajin
 
-Week 11B - Karolina Sobecka, Moment Factory ---> 
+Week 11B - Karolina Sobecka, Moment Factory ---> Virginia
 
-Week 11B - Robert Hodgin - Flight404, Karsten Schmidt ---> 
-Week 12A - Bomani Oseni McClendon, Lauren McCarthy  ---> 
+Week 11B - Robert Hodgin - Flight404, Karsten Schmidt ---> Pua
 
-Week 12A - Lia, Santiago Ortiz (Moebio.com) ---> 
+Week 12A - Bomani Oseni McClendon, Lauren McCarthy  ---> Jakeline
 
-Week 12B - Michael Hansmeyer, Waltz Binarie, Alida Sun ---> 
+Week 12A - Lia, Santiago Ortiz (Moebio.com) ---> Semehal
+
+Week 12B - Michael Hansmeyer, Waltz Binarie, Alida Sun ---> Sahra
 
 Week 13A - Paul Prudence,Yasmin Elayat  ---> 
 
-Week 13b - Chris Sugrue, Fernanda Viegas---> 
+Week 13b - Chris Sugrue, Fernanda Viegas---> Ella
 
 
 Extra Credit Possibilities (if time):  Chelley Sherman, Jessica In, Congraz, Rui Pereira, Todd Vanderlin, Jeff Crouse, Similar Diversity (by Philipp Steinweber and Andreas Koller), Poetry on the Road ...
