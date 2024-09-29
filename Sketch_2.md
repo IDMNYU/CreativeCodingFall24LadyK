@@ -7,7 +7,7 @@
 
 
 #### Step 1: Sept 22 (not graded)
-#### Step 2A: <strike>Sept 30<strike> Oct 2 23:00 (graded)
+#### Step 2A: <strike>Sept 30</strike> Oct 2 23:00 (graded)
 #### Step 2B: Oct 9  (graded)
 #### Step 2C: Oct 18  (graded)
 
