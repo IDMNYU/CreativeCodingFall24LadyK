@@ -39,7 +39,7 @@
 
  Use the previously created arrangement of shapes, as the cluster that you will use to create different patterns across the sketch window. 
 
- 2B. _For the next 3 patterns_, use your cluster, calling it multiple times (again). Yet, turn aspects of this cluster "on" and "off"; Or, switch some physical (location, not just color) aspect of your cluster. Achieve this by using if-statements within your for-loop. _How can you start to deviate from a grid? How can that grid be transformed into a cone? Or strips? Can you skip every other one?_ <strong> Can you manipulate that grid so that it is less grid-like? That is your goal here.</strong> 
+ 2B. _For the next 3 patterns_, use your cluster & double for-loops, calling it multiple times (again). Yet, turn aspects of this cluster "on" and "off"; Or, switch some physical (location, not just color) aspect of your cluster. Achieve this by using if-statements within your double for-loop. _How can you start to deviate from a grid? How can that grid be transformed into a cone? Or strips? Can you skip every other one?_ <strong> Can you manipulate that grid so that it is less grid-like? That is your goal here.</strong> 
 
 
  2C. _The next 3 patterns_ must use matrix transformations and can be interactive using the mouse.
