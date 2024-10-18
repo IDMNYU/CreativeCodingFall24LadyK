@@ -4,8 +4,8 @@
 
 ## MidTerm Project  - The Unexpected Machine: Performance Adjective
 
-**Due Oct 21 In class critiques** <br>
-**Final Submissions Due Oct 28 midnight to openProcessing & your github repo**
+**Due ~~Oct 21~~ 28 & 30 In class critiques** <br>
+**Final Submissions Due ~~Oct 28~~ Nov 4 midnight to openProcessing & your github repo**
 **20% of your final grade**
 
 ### Must be completed in p5.js

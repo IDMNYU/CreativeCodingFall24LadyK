@@ -68,18 +68,19 @@
 <tr>
 	<td> 7 </td>
 	<td valign="top"><a href="week_7_detail.md">Oct 16</a><br>Github <br>In class challenges <br><a href = "MidTermProject.md"> Work on Midterm Project  </a> <br>
-        Push your progress to your GitHub repo </td>
+        Push your progress to your GitHub repo 
+        <br> Strategies for coding <br>
+	Review State Machine <br>
+	Debugging Strategies<br></td>
 	<td valign = "top"> <a href="week_7_detail.md">Oct 21</a><br> Class Assignments <br>
-	<a href = "MidTermProject.md"> Work on Midterm Project  </a> <br>
-        Push your progress to your GitHub repo </td>
+	<a href = "MidTermProject.md"> Work on Midterm Project  </a> <br>Intro: Sound, Computer Vision, Video, P5 Play library, P5 Speech library<br>
+        Push your progress to your GitHub repo <br>
+    	Intro to images <br></td>
 </tr>
 <tr>
 <td>8</td>
 	<td valign="top"><a href="week_8_detail.md">Oct 23</a><br> 
-	Strategies for coding <br>
-	Review State Machine <br>
-	Debugging Strategies<br>
-	Intro: Sound, Computer Vision, Video, P5 Play library, P5 Speech library<br>
+	Working with Images and Image Data<br>
 	</td>
 <td valign="top"><a href="week_8_detail.md"> Oct 28 </a><strong>**MidTerm Presentations** <br>Midterm Project Feedback <br></strong> </td>
 </tr>
@@ -87,18 +88,18 @@
 	<td> 9 </td>
 	<td valign="top"><a href="week_9_detail.md">Oct 30</a><br><strong>**MidTerm Presentations** <br>Midterm Project Feedback <br></strong> 
 	</td>
-	<td valign="top"><a href="week_9_detail.md">Nov 4</a><br>Images + Pixels<br><a href = "RoundTable.md">Work on Roundtable for Final Projects for homework</a> <br>
+	<td valign="top"><a href="week_9_detail.md">Nov 4</a><br>Text<br><a href = "RoundTable.md">Work on Roundtable for Final Projects for homework</a> <br>
 		<a href = "Mid_Term_Self_Assessment.md"> Complete the Mid-Term Self-Assessment  Due 18:00 </a><br>
 		Complete Refinements to Midterm Project </a><br>
 	</td>
 </tr>
 <tr>
 	<td>10</td>
-	<td valign="top"><a href="week_10_detail.md">Nov 6</a><br> Images + Data<br>
+	<td valign="top"><a href="week_10_detail.md">Nov 6</a><br> Text Part II<br>
 		<a href = "Sketch_4.md"> Work on Sketch 4 </a> <br>
 		<a href = "Mid_Term_Self_Assessment.md">Submit the Midterm Self Assessment </a><br>
 	</td>
-	<td valign="top"><a href="week_10_detail.md">Nov 11</a><br> Text & Strings <br>Text & String Manipulations	 <br>
+	<td valign="top"><a href="week_10_detail.md">Nov 11</a><br> API's <br>Text & String Manipulations	 <br>
 		<a href = "Sketch_4.md"> Work on Sketch 4 </a><br>
 		<a href = "Mid_Term_Self_Assessment.md">Submit the Midterm Self Assessment </a><br>
 	</td>	
