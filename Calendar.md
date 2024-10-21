@@ -62,8 +62,13 @@
 		OOP <br>
 		Methods <br>
 	<td valign="top"><a href="week_6_detail.md">Oct 15</a><br>  <br>
+		Arrays <br>
+		OOP <br>
+		Methods <br>
 	<a href = "MidTermProject.mdd"> Work on Midterm</a> <br>
-         </td>
+       Arrays <br>
+		OOP <br>
+		Methods <br>  </td>
 </tr>
 <tr>
 	<td> 7 </td>
