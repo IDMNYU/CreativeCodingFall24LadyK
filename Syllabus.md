@@ -43,7 +43,7 @@ Creative Coding Syllabus &amp; Class repo
 
 #### Syllabus is subject to change at any time. Check back regularly.
 
-This course is an introductory programming class, appropriate for students with no programming experience, who are interested in creating interactivity. Traditionally, introductory programming teaches algorithmic problem-solving, where a sequence of instructions describe the steps necessary to achieve a desired result.  In this course, students are trained to go beyond this sequential thinking - to think concurrently and modularly. By its end, students are empowered to write and read code for creating interactivity including: event-driven creative applications, interactive installations, graphical user interfaces, games and user interfaces. Interactivity will be introduced and discussed throughout.
+This course is an introductory programming class, appropriate for students with no programming experience, who are interested in creating interactivity. At the same time, it's a course for students with programming experience to get experience programming graphic, interactive, dynamic applications. Traditionally, introductory programming teaches algorithmic problem-solving, where a sequence of instructions describe the steps necessary to achieve a desired result. In this course, students are trained to go beyond this sequential thinking - to think concurrently and modularly. By its end, students are empowered to write and read code for creating interactivity including: event-driven creative applications, interactive installations, graphical user interfaces, games and user interfaces. Interactivity will be introduced and discussed throughout.
 
 
 ## Program Goals
