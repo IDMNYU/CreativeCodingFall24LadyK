@@ -2,7 +2,7 @@
 ##### Fall 2024 • Katherine Bennett • Monday & Wednesdays • 14:00-15:50
 
 
-####  Due  TBA
+####  Due November 20
 
 This sketch you have the opportunity to choose one of the following:
 
